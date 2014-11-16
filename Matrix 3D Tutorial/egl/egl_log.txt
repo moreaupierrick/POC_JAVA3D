@@ -1,0 +1,101 @@
+0 : 	Init Graphic Context...
+1 : 	Checking system Graphics :
+33 : 		OpenGL version in use : 4.2.0
+33 : 		GLSL version in use : 4.20 NVIDIA via Cg compiler
+33 : 		Hardware provider : NVIDIA Corporation
+630 : 	
+		Loading Vertex Shader from file : "./egl/shaders/InfoText.glsl#?VP	id : 2
+882 : 				Compilation status : Succes
+882 : 	Compilation successfull !
+937 : 	
+		Loading Fragment Shader (GL20) from file : "./egl/shaders/InfoText.glsl#?FS	id : 3
+993 : 				Compilation status : Succes
+
+1009 : 	Compilation successfull !
+1033 : 	Texture : ColorTex  - Override tIndex : 0
+1078 : 	
+		Loading Vertex Shader from file : "./egl/shaders/Phong_VP.glsl	id : 5
+1179 : 				Compilation status : Succes
+1179 : 	Compilation successfull !
+1180 : 	
+		Loading Fragment Shader (GL20) from file : "./egl/shaders/Phong_FS.glsl	id : 6
+1215 : 				Compilation status : Succes
+
+1218 : 	Compilation successfull !
+1240 : 	Texture : NormalMapTex  - Override tIndex : 0
+1247 : 	Texture : ColorTex  - Override tIndex : 1
+1439 : 	Texture : NormalMapTex  - Override tIndex : 0
+1439 : 	Texture : ColorTex  - Override tIndex : 1
+1530 : 	Texture : NormalMapTex  - Override tIndex : 0
+1530 : 	Texture : ColorTex  - Override tIndex : 1
+1631 : 	Texture : NormalMapTex  - Override tIndex : 0
+1631 : 	Texture : ColorTex  - Override tIndex : 1
+1856 : 	Texture : NormalMapTex  - Override tIndex : 0
+1856 : 	Texture : ColorTex  - Override tIndex : 1
+1966 : 	Texture : NormalMapTex  - Override tIndex : 0
+1966 : 	Texture : ColorTex  - Override tIndex : 1
+2064 : 	Texture : NormalMapTex  - Override tIndex : 0
+2065 : 	Texture : ColorTex  - Override tIndex : 1
+2170 : 	Scene is initialized.
+2171 : 	FBO generated id : 1
+2172 : 	FBO Color generated id : 11
+2172 : 	FBO Color id : 11 was succefully defined as a rectangular (GL31) texture
+2172 : 	FBO depth generated id : 12
+2173 : 	FBO depth id : 12 was succefully defined as a rectangular (GL31) texture
+2218 : 	FBO color binding succesfull
+2284 : 	No uniform found with name ModelViewInv on shader with ID : 4  -1
+2285 : 	No uniform found with name WorldView on shader with ID : 4  -1
+2285 : 	No uniform found with name WorldViewInv on shader with ID : 4  -1
+2286 : 	No uniform found with name CurrentTime on shader with ID : 4
+2286 : 	No uniform found with name L2_Color on shader with ID : 4
+2286 : 	No uniform found with name L3_Color on shader with ID : 4
+2289 : 	No uniform found with name L2_Position on shader with ID : 4
+2289 : 	No uniform found with name L3_Position on shader with ID : 4
+2333 : 	No uniform found with name ModelViewInv on shader with ID : 4  -1
+2333 : 	No uniform found with name WorldView on shader with ID : 4  -1
+2333 : 	No uniform found with name WorldViewInv on shader with ID : 4  -1
+2334 : 	No uniform found with name CurrentTime on shader with ID : 4
+2334 : 	No uniform found with name L2_Color on shader with ID : 4
+2334 : 	No uniform found with name L3_Color on shader with ID : 4
+2335 : 	No uniform found with name L2_Position on shader with ID : 4
+2335 : 	No uniform found with name L3_Position on shader with ID : 4
+2336 : 	No uniform found with name ModelViewInv on shader with ID : 4  -1
+2336 : 	No uniform found with name WorldView on shader with ID : 4  -1
+2337 : 	No uniform found with name WorldViewInv on shader with ID : 4  -1
+2337 : 	No uniform found with name CurrentTime on shader with ID : 4
+2337 : 	No uniform found with name L2_Color on shader with ID : 4
+2337 : 	No uniform found with name L3_Color on shader with ID : 4
+2338 : 	No uniform found with name L2_Position on shader with ID : 4
+2338 : 	No uniform found with name L3_Position on shader with ID : 4
+2339 : 	No uniform found with name ModelViewInv on shader with ID : 4  -1
+2342 : 	No uniform found with name WorldView on shader with ID : 4  -1
+2342 : 	No uniform found with name WorldViewInv on shader with ID : 4  -1
+2342 : 	No uniform found with name CurrentTime on shader with ID : 4
+2343 : 	No uniform found with name L2_Color on shader with ID : 4
+2343 : 	No uniform found with name L3_Color on shader with ID : 4
+2343 : 	No uniform found with name L2_Position on shader with ID : 4
+2343 : 	No uniform found with name L3_Position on shader with ID : 4
+2345 : 	No uniform found with name ModelViewInv on shader with ID : 4  -1
+2345 : 	No uniform found with name WorldView on shader with ID : 4  -1
+2345 : 	No uniform found with name WorldViewInv on shader with ID : 4  -1
+2346 : 	No uniform found with name CurrentTime on shader with ID : 4
+2346 : 	No uniform found with name L2_Color on shader with ID : 4
+2346 : 	No uniform found with name L3_Color on shader with ID : 4
+2347 : 	No uniform found with name L2_Position on shader with ID : 4
+2347 : 	No uniform found with name L3_Position on shader with ID : 4
+2348 : 	No uniform found with name ModelViewInv on shader with ID : 4  -1
+2348 : 	No uniform found with name WorldView on shader with ID : 4  -1
+2348 : 	No uniform found with name WorldViewInv on shader with ID : 4  -1
+2349 : 	No uniform found with name CurrentTime on shader with ID : 4
+2349 : 	No uniform found with name L2_Color on shader with ID : 4
+2349 : 	No uniform found with name L3_Color on shader with ID : 4
+2350 : 	No uniform found with name L2_Position on shader with ID : 4
+2350 : 	No uniform found with name L3_Position on shader with ID : 4
+2351 : 	No uniform found with name ModelViewInv on shader with ID : 4  -1
+2351 : 	No uniform found with name WorldView on shader with ID : 4  -1
+2351 : 	No uniform found with name WorldViewInv on shader with ID : 4  -1
+2352 : 	No uniform found with name CurrentTime on shader with ID : 4
+2352 : 	No uniform found with name L2_Color on shader with ID : 4
+2352 : 	No uniform found with name L3_Color on shader with ID : 4
+2352 : 	No uniform found with name L2_Position on shader with ID : 4
+2353 : 	No uniform found with name L3_Position on shader with ID : 4
